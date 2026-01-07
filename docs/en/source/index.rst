@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-SciEvalKit Documentation
+SciEvalKit Tutorial
 ========================
 
 **SciEvalKit** is an open‑source evaluation framework and leaderboard aimed at measuring the **scientific intelligence** of large language and vision–language models.
