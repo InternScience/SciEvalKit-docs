@@ -17,6 +17,6 @@ SciEvalKit 所支持的各个Benchmark的详细信息，请参考 `SciEvalKit Fe
    :caption: Contents:
 
    Quickstart.md
+   AgentEvaluation.md
    
   
-
